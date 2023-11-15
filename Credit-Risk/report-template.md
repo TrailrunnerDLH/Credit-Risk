@@ -4,8 +4,8 @@
 
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
+* The purpose of this analysis is to determine whether a borrower is creditworthy as wellas determine if the algorithm used does good job of predicting creditworthyness. Data used came from a peer to peer lending organization and included, lon amoutns, interest rate,  borrower income, number of accounts and derogatory history. The purpose was to be able to pedict whether the borrower would repay the loan.  
+* 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
