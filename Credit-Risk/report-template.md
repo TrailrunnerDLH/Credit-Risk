@@ -16,15 +16,15 @@ The resampled data was used to build a new logistic regression model. Logistic R
 
 Logistic Regression Model 1:
 
-Precision: At 93% on average in predicting.  
-100% precise on healthy loans, the only 87% accurate in predicting high-risk loans. 
+Precision:  94% on average in predicting creditworthiness.   
+100% precise on healthy loans, however only 87% accurate in predicting high-risk loans. 
 Overall Accuracy: 94%
-Recall: 95% on average this model had 100% recall in predicting low-risk loans, but only 89% in predicting higher-risk loans.
+Recall: 94% on average this model had 99% recall in predicting low-risk loans, but only 89% in predicting higher-risk loans.
 
 
 Logistic Regression Model 2:
 
-Precision: Also 93% on average.  Also 100% precise in predicting healthy loans, and similarly 87% accurate on higher hisk loans. 
+Precision: Also 94% on average.  Also 100% precise in predicting healthy loans, and similarly 87% accurate on higher hisk loans. 
 Accuracy: 100%
 Recall: 100%
 
